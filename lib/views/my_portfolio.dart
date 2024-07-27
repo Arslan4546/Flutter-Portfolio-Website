@@ -125,7 +125,7 @@ class _MyPortfolioState extends State<MyPortfolio> {
                         ),
                         Constants.sizedBox(height: 15.0),
                         Text(
-                          'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+                          'It is a well-known fact that users will be engaged by the intuitive design of an app when interacting with its interface.',
                           style:
                               AppTextStyles.normalStyle(color: Colors.black87),
                           textAlign: TextAlign.center,

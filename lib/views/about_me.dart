@@ -86,13 +86,7 @@ class AboutMe extends StatelessWidget {
         FadeInLeft(
           duration: const Duration(milliseconds: 1600),
           child: Text(
-            'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.'
-            ' The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,'
-            ' as opposed to using \'Content here, content here\', making it look like readable English.'
-            ' Many desktop publishing packages and web page editors now use Lorem Ipsum as their default'
-            ' model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy.'
-            ' Various versions have evolved over the years, sometimes by accident, sometimes on purpose'
-            ' (injected humour and the like).',
+            'As a Flutter developer, I create engaging and readable content within my applications, ensuring the layout captivates and retains user attention. Just as Lorem Ipsum provides a natural distribution of letters, I strive to balance design elements and text, making my applications look and feel professional.Incorporating Flutter’s advanced capabilities, I develop user-friendly and visually appealing apps. My experience spans desktop publishing packages and web page editors, where I\'ve seen firsthand how effective design enhances readability and user engagement.Over the years, my journey as a Flutter developer has been marked by continuous evolution and adaptation. Like the many versions of Lorem Ipsum, my work blends innovation with creativity, resulting in applications that stand out.',
             style: AppTextStyles.normalStyle(),
           ),
         ),

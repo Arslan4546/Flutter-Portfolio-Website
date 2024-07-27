@@ -114,9 +114,7 @@ class _HomePageState extends State<HomePage> {
           duration: const Duration(milliseconds: 1600),
           child: Expanded(
             child: Text(
-              'In publishing and graphic design, Lorem ipsum is a placeholder '
-              'text commonly used to demonstrate the visual form of a document'
-              ' or a typeface without relying on meaningful content.',
+              'As a Flutter developer, digital marketer, and freelancer, I bring a diverse skill set to the table. I create visually appealing and highly functional applications, execute effective marketing strategies, and provide tailored solutions to meet client needs. My passion for technology and innovation drives me to deliver top-notch results.',
               style: AppTextStyles.normalStyle(),
             ),
           ),
